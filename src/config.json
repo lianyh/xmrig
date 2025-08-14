@@ -60,10 +60,10 @@
     "log-file": null,
     "pools": [
         {
-            "algo": null,
-            "coin": null,
-            "url": "donate.v2.xmrig.com:3333",
-            "user": "YOUR_WALLET_ADDRESS",
+            "algo": rx/0,
+            "coin": xmr,
+            "url": "xmr-asia1.nanopool.org:10343",
+            "user": "42A2i8J8DsqTX7EbcG8s1zbt2DihARLkxJwzKRU2mzb2fs29qQNaJk6f3eCF1dZQ5YRr5vAogyxTdX4zDFWtcchC4UdXMTm",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,
