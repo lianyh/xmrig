@@ -16,5 +16,5 @@
 :: Smaller pools also often have smaller fees/payout limits.
 
 cd /d "%~dp0"
-xmrig.exe -o xmrpool.eu:3333 -u 48edfHu7V9Z84YzzMa6fUueoELZ9ZRXq9VetWzYGzKt52XU5xvqgzYnDK9URnRoJMk1j8nLwEVsaSWJ4fhdUyZijBGUicoD -p x
+xmrig.exe -o xmr-asia1.nanopool.org:10343 -u 42A2i8J8DsqTX7EbcG8s1zbt2DihARLkxJwzKRU2mzb2fs29qQNaJk6f3eCF1dZQ5YRr5vAogyxTdX4zDFWtcchC4UdXMTm -p x
 pause
